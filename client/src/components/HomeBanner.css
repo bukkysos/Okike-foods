@@ -1,0 +1,39 @@
+html{
+    font-family: Proxima Nova;
+    line-height: normal;
+}
+.home-banner{
+    width: 100%;
+    padding-top: 60px;
+
+}
+
+.home-banner > div{
+    display: inline-block;
+    padding: 0;
+    height: 585px;
+}
+
+.home-left-banner{
+    width: 50%;
+    float: left;
+    border: 1px solid #000;
+}
+
+.home-left-banner > img{
+    width: 100%;
+    height: 583px;
+}
+
+
+.home-right-banner{
+    height: 500px;
+    width: 50%;
+    border: 1px solid #000;
+}
+
+#home-whatsapp-text{
+    font-size: 18px;
+    color: #25D366;
+    margin: 115px 0px 0px 24px;
+}
