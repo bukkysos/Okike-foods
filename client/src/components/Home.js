@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link, withRouter } from "react-router-dom";
-import Header from './Header';
+// import Header from './Header';
 import HomeBanner from './HomeBanner';
 
 class Home extends Component{
@@ -11,7 +11,7 @@ class Home extends Component{
     render(){
         return(
             <div>
-                <Header/>
+                {/* <Header/> */}
                 <HomeBanner/>
             </div>
         )
